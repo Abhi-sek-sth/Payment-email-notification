@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "collegemanagementsystem-dbaea",
+  "private_key_id": "1705f808b8e1e03256427207fa0fa46cdb2c8d56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDdsGYNIp3n2te9\nt6etdWeBTYvYOPXFxbsC/49J+vmglu7g3OX5Z79RsXm5dy/cRVen2TxaQNUlVcf6\n3qJwsLjtWLaL7e6WpAE0TIkiJGmZkvGPNS/6FkYgNq9/A8TlDfRmB0B7abWWLWUV\nfHrgkzXajykjiHrXOyByW1uh3eTDxWYc7of8Zo+8JpeCkHrW0GzC/1hCp+uIdasV\nUQjMZGGpEFmYbtcmXXzItgzAGfEoUlRzjWRxk5zjGorMMPVNug1K4Dz8hpTzRQHK\nz3fCPjscjbX0xNuCzmqjJe1tsy9T6YJfJLCsAZQfqJn5KuUf5kZYZkBFTfcfTvYm\n3HFXcJ8RAgMBAAECggEABwjfEiViMJ5qiGoEo33VXx5mdMHo9aHGw4t3wOuagoCr\nm53S2+FRij55G/wm3ATkyU4cysniIZ1JW2H3cl8/PQPaxhGyp5vUcHQJyXgxlCac\nLPTNfRB6IPFPTBbi53hUBC1Qe+IQua9e1OnWbdwqAjGXBvpAmKYXC13wCFDF3rrs\nlXimkqkhBAlDkyTBPpnGICVaJu8vX4qttGB/h9+miccfGidoNYkPYI0JwxSADZ6H\nIk34+wtonSzUZ301Ch0j3WRfg4DR9HlxeAQMq7JlsNmTpRL85rZQCJpG18kXCyEY\nSwvSXGhMYT9W//v1rFuou3kbD52GbhalDJ6yA0nhiQKBgQD6UpDGqbpaOaI0uJ3/\nOzfbTCIiHOhbFrm+pPVjj3+0R1QIgcVs/dRPOuw+kfYzhxx/jmgYou1nRWBv/iUJ\nRjzBxtCKliiXbi/rNxQzRyLrI86oruh/hLLTcy7BxHMklCrt6OiCWrYGj1zIWvXi\nWLfTUeA8uztZgo8THpMYU8Ph2QKBgQDit5SDcVSOXffqiEt3bMElzwF9M7GlnsQ/\npaZ8Vqz0evd3G43HyEUdagnXB2CU2pRywnMLVPq6bgSCI1seC3+ysyIBC27IeVq1\nLhCVP+8Og5mVjknMKE3wSnCVcRgtziU5Lo/WlMueHWb6VtxYPyWTNwtjNNDj+vEj\n61AOP76r+QKBgQDlFu8cgXTk4d4LNfKTBVUnQ9PxOFeGFZREX5+cUFXlXWoQpwNR\nrjPBlwFieh7CJaL1MhUehu2SF7IcjJDEnh04koWEb8wSWmtMbwnzq+TPIeQeCIUL\nPxyR29Ysy2c9UMTBGui/c9kmw8l8K5LgZaVGpqX7rrawQoZCTzb7ip24cQKBgCTD\nRfbGcsKfJCtIrIwR+4Po/EHUFxNXGlWDw+pXl7YRFn2e3y+tHt/1KOFQVe3tP7MY\nKtWEkx+V5W9A0m6dyLguae4nb3BclUPZ02CQPHBrEIV6zCapxnGXcIgbDaOn0Mtj\n7HkMKbRa6i7f1N0OaEZl35fXoaPGNkHvz0xwM7fpAoGBAN04i7tC5/Lmm68ZxtMl\nHpdlYjN5QfHQ5Uel75WufroxemtBX3rdA7e4nx32hmpYBE7sXCmUulhQ+Uuen+12\nVvEnbkFwWxB4ls0U7WPlWyVukx0cVglQNk33g2oM+KIrw/0YFIkAH99dwxHdHvGY\nRHEM+r3TOCuPxZEliatHHfGd\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@collegemanagementsystem-dbaea.iam.gserviceaccount.com",
+  "client_id": "114071737640270921936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40collegemanagementsystem-dbaea.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
